@@ -19,6 +19,7 @@ contact:
 license: "CC-BY-4.0"
 repository-code: https://github.com/Chilipp/psyplot-Data-Science-Symposium-20240404
 type: software
+doi: 10.5281/zenodo.10925983
 keywords:
   - psyplot
   - python

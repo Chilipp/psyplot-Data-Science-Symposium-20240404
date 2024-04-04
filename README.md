@@ -8,6 +8,7 @@ Philipp S. Sommer
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Chilipp/psyplot-Data-Science-Symposium-20240404/main?filepath=psyplot-framework-presentation.ipynb)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10925983.svg)](https://doi.org/10.5281/zenodo.10925983)
 
 This presentation demonstrates the most recent features of Psyplot, a powerful tool for visualizing climate data on unstructured grids. The utilization of UGRID conventions has become paramount in handling unstructured grids effectively. This presentation demonstrates how psyplot can be used to effectively and straightforwardly visualize climate data conforming to UGRID conventions, highlighting its role in enhancing the comprehension of spatial and temporal patterns.
 
