@@ -7,29 +7,16 @@ dependencies:
     - jupyter
     - rise
     - ipympl
-    - matplotlib=3.7
-    - cartopy>=0.18
     - dask
     - pip
     - pyinterp
-    - xarray=2023.7.0
     - scikit-learn
-    - cartopy
-    - cython
-    - netcdf4
-    - pyqt=5
-    - pyqtwebengine
-    - qtconsole
+    - psy-view=1.5.0
     # mybinder has a problem with upgrading ipython, so we fix the version here
     - ipython=8.16.1
     # Required for jupyter-desktop-server
     - websockify
     - pip:
         - jupyter-desktop-server
-        - git+https://codebase.helmholtz.cloud/psyplot/psyplot.git@develop
-        - git+https://codebase.helmholtz.cloud/psyplot/psy-simple.git@develop
-        - git+https://codebase.helmholtz.cloud/psyplot/psy-maps.git@develop
-        - git+https://codebase.helmholtz.cloud/psyplot/psyplot-gui.git@develop
-        - git+https://codebase.helmholtz.cloud/psyplot/psy-view.git@master
-        - git+https://codebase.helmholtz.cloud/psyplot/psy-ugrid.git@main
-        - git+https://codebase.helmholtz.cloud/psyplot/psy-transect.git@master
+        - psy-ugrid
+        - psy-transect

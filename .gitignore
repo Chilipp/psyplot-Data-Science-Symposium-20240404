@@ -140,3 +140,5 @@ my-project.pkl
 .ipynb_checkpoints
 
 node_modules
+package.json
+package-lock.json

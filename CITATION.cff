@@ -17,7 +17,7 @@ contact:
   - email: psyplot@hereon.de
     name: "Psyplot developers at hereon"
 license: "CC-BY-4.0"
-repository-code: https://github.com/Chilipp/psyplot-KS_Seminar-20240201
+repository-code: https://github.com/Chilipp/psyplot-Data-Science-Symposium-20240404
 type: software
 keywords:
   - psyplot
@@ -29,4 +29,32 @@ keywords:
   - interactive
   - climate models
   - unstructured
+abstract: >
+  This presentation demonstrates the most recent features of Psyplot, a powerful 
+  tool for visualizing climate data on unstructured grids. The utilization of 
+  UGRID conventions has become paramount in handling unstructured grids 
+  effectively. This presentation demonstrates how psyplot can be used to 
+  effectively and straightforwardly visualize climate data conforming to UGRID 
+  conventions, highlighting its role in enhancing the comprehension of spatial 
+  and temporal patterns.
+
+  Another key focus of the presentation is on the grid-independent extraction 
+  of vertical transects in 4-dimensional data, addressing a critical challenge 
+  in climate science. I will showcase the new innovative methodologies within 
+  Psyplot that facilitate seamless extraction of vertical profiles across 
+  varying grid structures, enabling researchers to analyze and interpret 
+  climate variables. By showcasing practical applications and case studies, the 
+  presentation aims to demonstrate the usefullness of psyplot for climate data 
+  analysis and model development. Attendees will gain valuable insights into 
+  the potential of Psyplot and its role in pushing the boundaries of 
+  visualizing climate data on unstructured grids.
+references:
+  - conference:
+      name: "9th Data Science Symposium"
+      date-start: "2024-04-04"
+      date-end: "2024-04-05"
+      country: DE
+      city: Bremen
+      website: https://events.hifis.net/event/911/
+    type: conference
 ...

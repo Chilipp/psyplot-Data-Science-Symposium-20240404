@@ -16,9 +16,9 @@
 # Do not forget the token in the URL!!
 # ************************************
 
-$(npm bin)/decktape rise \
+node_modules/.bin/decktape rise \
 	-s 2000x1500 \
 	--pdf-author "Philipp S. Sommer" \
-        --pdf-title "Interactive visualization of climate model data via Python or GUI with psyplot" \
-	--pdf-subject "Interactive visualization of climate model data via Python or GUI with psyplot" \
+    --pdf-title "Using psyplot for visualizing unstructured data and vertical transects" \
+	--pdf-subject "Using psyplot for visualizing unstructured data and vertical transects" \
 	$@
